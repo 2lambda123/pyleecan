@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 # File generated according to Generator/ClassesRef/Slot/HoleM52.csv
 # WARNING! All changes made in this file will be lost!
-"""Method code available at https://github.com/Eomys/pyleecan/tree/master/pyleecan/Methods/Slot/HoleM52
-"""
+"""Method code available at https://github.com/Eomys/pyleecan/tree/master/pyleecan/Methods/Slot/HoleM52"""
 
 from os import linesep
 from sys import getsizeof

@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 # File generated according to Generator/ClassesRef/Optimization/OptiGenAlg.csv
 # WARNING! All changes made in this file will be lost!
-"""Method code available at https://github.com/Eomys/pyleecan/tree/master/pyleecan/Methods/Optimization/OptiGenAlg
-"""
+"""Method code available at https://github.com/Eomys/pyleecan/tree/master/pyleecan/Methods/Optimization/OptiGenAlg"""
 
 from os import linesep
 from sys import getsizeof
