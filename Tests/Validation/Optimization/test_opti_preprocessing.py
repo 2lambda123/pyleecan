@@ -2,9 +2,9 @@
 # coding: utf-8
 """
 Test Pyleecan optimization module using Binh and Korn Function
- 
-Binh, T. and U. Korn, "MOBES: A multiobjective evolution strategy for constrained optimization problems. 
-In Proceedings of the third international Conference on Genetic Algorithms (Mendel97), ", Brno, Czech Republic, pp. 176-182, 1997 
+
+Binh, T. and U. Korn, "MOBES: A multiobjective evolution strategy for constrained optimization problems.
+In Proceedings of the third international Conference on Genetic Algorithms (Mendel97), ", Brno, Czech Republic, pp. 176-182, 1997
 """
 # Imports
 from os.path import join
